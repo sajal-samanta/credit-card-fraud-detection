@@ -7,7 +7,7 @@ This project demonstrates the use of **classification algorithms**, **data balan
 ---
 
 ## 🚀 Live Demo
-🔗 **[Try the App Here](https://credit-card-fraud-detection-jh94cwrmq4vfmtjjuaysdd.streamlit.app/)**  
+🔗 **[Try the App Here](https://credit-card-fraud-detection-djpk2qfpzyfov9yfmavpsr.streamlit.app/)**  
 
 
 ---
@@ -41,6 +41,7 @@ The app provides:
 
 # 4️⃣ Run the app
  cd fraud_project
+ 
   py -m streamlit run app/streamlit_app.py
 
 
