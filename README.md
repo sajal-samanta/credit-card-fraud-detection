@@ -47,38 +47,23 @@ The app provides:
 
 
   
-📁 Folder Structure
-swift
-Copy code
-creditcard_fraud_detection/
-│
-├── app.py                      ← Streamlit main app file
+fraud_project/
+├── app/
+│   ├── streamlit_app.py          # Main Streamlit application
+│   ├── best_fraud_model.pkl      # Trained model
+│   └── scaler.pkl               # Feature scaler
 ├── models/
-│   ├── best_fraud_model.pkl     ← Trained model
-│   └── scaler.pkl               ← Feature scaler
-├── requirements.txt
-├── README.md
-└── (optional) data/             ← Training dataset (not required for deployment)
+│   ├── best_fraud_model.pkl     # Backup model files
+│   └── scaler.pkl              # Backup scaler files
+├── notebooks/
+│   └── fraud_detection.ipynb    # Jupyter notebook with EDA & training
+├── requirements.txt             # Python dependencies
+└── README.md                   # Project documentation
 
 
 
 
 
-
-graph TD
-    A[Transaction Data] --> B[Data Preprocessing]
-    B --> C[Feature Scaling]
-    C --> D[SMOTE Balancing]
-    D --> E[Model Training]
-    E --> F[Random Forest]
-    E --> G[XGBoost]
-    E --> H[SVM]
-    E --> I[Logistic Regression]
-    F --> J[Model Selection]
-    J --> K[Streamlit Web App]
-    K --> L[Real-time Prediction]
-    K --> M[Batch Analysis]
-    K --> N[Visual Analytics]
 
     
 📊 Model Information
