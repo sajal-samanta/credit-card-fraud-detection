@@ -10,6 +10,11 @@ This project demonstrates the use of **classification algorithms**, **data balan
 🔗 **[Try the App Here](https://credit-card-fraud-detection-djpk2qfpzyfov9yfmavpsr.streamlit.app/)**  
 
 
+
+
+## 🚀 Working video 
+🔗 **[Watch the video here  Here](https://drive.google.com/file/d/1DFoq8OFrZuCiIomSBjEDNRy17rNT1Tub/view?usp=drivesdk)**
+
 ---
 
 ## 🧠 Project Overview
