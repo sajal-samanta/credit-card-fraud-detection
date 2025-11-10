@@ -59,6 +59,28 @@ creditcard_fraud_detection/
 ├── requirements.txt
 ├── README.md
 └── (optional) data/             ← Training dataset (not required for deployment)
+
+
+
+
+
+
+graph TD
+    A[Transaction Data] --> B[Data Preprocessing]
+    B --> C[Feature Scaling]
+    C --> D[SMOTE Balancing]
+    D --> E[Model Training]
+    E --> F[Random Forest]
+    E --> G[XGBoost]
+    E --> H[SVM]
+    E --> I[Logistic Regression]
+    F --> J[Model Selection]
+    J --> K[Streamlit Web App]
+    K --> L[Real-time Prediction]
+    K --> M[Batch Analysis]
+    K --> N[Visual Analytics]
+
+    
 📊 Model Information
 Algorithm: Random Forest Classifier
 
