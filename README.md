@@ -11,10 +11,6 @@ This project demonstrates the use of **classification algorithms**, **data balan
 
 
 
-
-## 🚀 Working video 
-🔗 **[Watch the video here  Here](https://drive.google.com/file/d/1DFoq8OFrZuCiIomSBjEDNRy17rNT1Tub/view?usp=drivesdk)**
-
 ---
 
 ## 🧠 Project Overview
@@ -50,6 +46,11 @@ The app provides:
   py -m streamlit run app/streamlit_app.py
 
 
+
+
+
+## 🚀 Working video 
+🔗 **[Watch the video here  Here](https://drive.google.com/file/d/1DFoq8OFrZuCiIomSBjEDNRy17rNT1Tub/view?usp=drivesdk)**
 
   
 fraud_project/
