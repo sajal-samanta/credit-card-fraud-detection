@@ -11,6 +11,7 @@ This project demonstrates the use of **classification algorithms**, **data balan
 
 
 
+
 ---
 
 ## 🧠 Project Overview
@@ -18,11 +19,15 @@ This project demonstrates the use of **classification algorithms**, **data balan
 Financial fraud detection is one of the most critical challenges in fintech.  
 This project leverages machine learning to predict whether a credit card transaction is **fraudulent or legitimate** using anonymized transaction data.
 
-The app provides:
-- **Real-time fraud detection demo** using user-controlled feature sliders  
-- **Batch prediction mode** for uploaded CSV transaction data  
-- **Model performance insights and metrics visualization**  
-- **Contact section** for collaboration and feedback  
+
+
+Key Features
+Real-Time Prediction: Users enter transaction attributes (e.g., amount, time, location-based features) via a simple form, and the app outputs a fraud probability score along with a binary classification (fraudulent or not).
+Model Insights: Displays feature importance and model performance metrics (e.g., accuracy, precision, recall) to explain predictions.
+Data Visualization: Includes charts and graphs for exploratory data analysis, such as transaction distributions and fraud patterns over time.
+User-Friendly Interface: Clean, intuitive design with sliders, dropdowns, and text inputs for easy interaction, no coding required.
+
+
 
 ---
 
@@ -111,12 +116,10 @@ Feel free to reach out for collaborations or feedback!
 
 📝 Feedback / Contact
 I’d love to hear your thoughts on this project!
-Please fill out this short Google Form to share feedback or suggestions.
+
 
 🌐 License
 This project is licensed under the MIT License — you’re free to use, modify, and distribute it with attribution.
 
 ⭐ If you find this project helpful, please give it a star on GitHub!
 
-Would you like me to tailor the **live demo link** and GitHub repo URL (with your actual username/repo name) in the README for you?  
-If you send me your **GitHub repo link**, I’ll fill it in perfectly and format it for you.
