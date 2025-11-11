@@ -21,11 +21,14 @@ This project leverages machine learning to predict whether a credit card transac
 
 
 
-Key Features
-Real-Time Prediction: Users enter transaction attributes (e.g., amount, time, location-based features) via a simple form, and the app outputs a fraud probability score along with a binary classification (fraudulent or not).
-Model Insights: Displays feature importance and model performance metrics (e.g., accuracy, precision, recall) to explain predictions.
-Data Visualization: Includes charts and graphs for exploratory data analysis, such as transaction distributions and fraud patterns over time.
-User-Friendly Interface: Clean, intuitive design with sliders, dropdowns, and text inputs for easy interaction, no coding required.
+**Key Features**
+1.Real-Time Prediction: Users enter transaction attributes (e.g., amount, time, location-based features) via a simple form, and the app outputs a fraud probability score along with a binary classification (fraudulent or not).
+
+2.Model Insights: Displays feature importance and model performance metrics (e.g., accuracy, precision, recall) to explain predictions.
+
+3.Data Visualization: Includes charts and graphs for exploratory data analysis, such as transaction distributions and fraud patterns over time.
+
+4.User-Friendly Interface: Clean, intuitive design with sliders, dropdowns, and text inputs for easy interaction, no coding required.
 
 
 
