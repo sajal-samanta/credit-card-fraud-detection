@@ -14,6 +14,10 @@ A comprehensive machine learning system for real-time credit card fraud detectio
 
 
 
+## 🚀 Live Demo 🔗 **[Try the App Here](https://credit-card-fraud-detection-djpk2qfpzyfov9yfmavpsr.streamlit.app/)**
+
+
+
 ## 📊 Project Overview
 
 This system detects fraudulent credit card transactions with **98%+ ROC-AUC accuracy** using ensemble machine learning methods. It processes real-time transactions and provides instant fraud risk assessment through an intuitive web interface.
@@ -86,6 +90,9 @@ The app is configured for easy deployment on:
 - **Heroku**
 - **AWS EC2**
 - **Google Cloud Run**
+
+
+## Describe video  🔗 **[Watch the video Here](https://drive.google.com/file/d/1DFoq8OFrZuCiIomSBjEDNRy17rNT1Tub/view)**
 
 ## 📁 Project Structure
 
