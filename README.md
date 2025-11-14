@@ -164,16 +164,6 @@ The project uses the [Credit Card Fraud Detection Dataset](https://www.kaggle.co
 - **Classes**: 0 (Legitimate), 1 (Fraudulent)
 - **Size**: 284,807 transactions, 492 frauds (0.172%)
 
-## 🎨 Features Showcase
-
-### Real-time Risk Assessment
-![Demo GIF](https://via.placeholder.com/800x400.png?text=Interactive+Demo+Interface)
-
-### Advanced Analytics
-![Analytics](https://via.placeholder.com/800x400.png?text=Advanced+Analytics+Dashboard)
-
-### Business Intelligence
-![Business](https://via.placeholder.com/800x400.png?text=Cost-Benefit+Analysis)
 
 ## 🤝 Contributing
 
