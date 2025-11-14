@@ -12,7 +12,7 @@ A comprehensive machine learning system for real-time credit card fraud detectio
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-card-fraud-detection-djpk2qfpzyfov9yfmavpsr.streamlit.app/)
 
-*Note: Replace with your actual deployment URL*
+
 
 ## 📊 Project Overview
 
